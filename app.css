@@ -1,0 +1,9 @@
+#counter-container {
+    margin: 5rem auto;
+}
+#counter-card {
+    text-align: center;
+}
+#buttons a {
+    margin-right: 20px;
+}
